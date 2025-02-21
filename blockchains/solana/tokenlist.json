@@ -552,6 +552,16 @@
             "decimals": 8,
             "logoURI": "https://assets-cdn.trustwallet.com/blockchains/solana/assets/rndrizKT3MK1iimdxRdWabcF7Zg7AR5T4nud4EkHBof/logo.png",
             "pairs": []
+        },
+        {
+            "asset": "c501_tCFRqWbTZDx5QjeJ3MUvuZmpVCHJ1i54rVQJiPSSt5nkj",
+            "type": "SPL",
+            "address": "CFRqWbTZDx5QjeJ3MUvuZmpVCHJ1i54rVQJiPSSt5nkj",
+            "name": "USDT",
+            "symbol": "USDT",
+            "decimals": 6,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/solana/assets/CFRqWbTZDx5QjeJ3MUvuZmpVCHJ1i54rVQJiPSSt5nkj/logo.png",
+            "pairs": []
         }
     ],
     "version": {
